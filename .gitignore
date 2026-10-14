@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.log
+*.sql
+*.zip
+.env
+.env.*
+!.env.example
+vendor/
+node_modules/
